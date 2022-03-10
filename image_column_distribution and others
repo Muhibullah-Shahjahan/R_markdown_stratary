@@ -1,0 +1,48 @@
+# Column Divide 
+.pull-left[
+```{r, type-of-review-1, echo=FALSE, fig.align='center', out.width="60%", out.height="40%", fig.cap="Figure: Image A"}
+knitr::include_graphics("images/hello-red.jpg")
+```
+
+]
+
+
+.pull-right[
+```{r, type-of-review-2, echo=FALSE, fig.align='center', out.width="60%", out.height="40%", fig.cap="Figure: Image B"}
+knitr::include_graphics("images/hello-red.jpg")
+```
+]
+
+The text<sup>1</sup>
+
+.footnote[
+[1] [Source: Google]()
+]
+
+
+
+---
+# What is a Literature Review?
+In short, a literature review is the comprehensive study and interpretation of literature that
+relates to a particular topic.
+- Identify a research question
+- Then seek to answer
+- Then seek to answer
+
+Throughout search and analysis of the literature leads you to new insights.
+
+
+
+---
+# What types of literature reviews are there?
+```{r, type-of-review, echo=FALSE, fig.align='center', out.width="60%", out.height="40%"}
+knitr::include_graphics("images/hello-red.jpg")
+```
+
+
+```{r}
+
+```
+
+
+---
